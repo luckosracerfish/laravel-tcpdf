@@ -1,6 +1,6 @@
 {
   "name": "elibyy/laravel-tcpdf",
-  "description": "tcpdf support for laravel 5",
+  "description": "tcpdf support for laravel 5.2",
   "minimum-stability": "stable",
   "license": "proprietary",
   "keywords":["laravel","tcpdf","pdf"],
